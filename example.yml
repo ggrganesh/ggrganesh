@@ -1,0 +1,15 @@
+catalog_grants:
+- catalogs: [""]
+  principals: [""]
+  privileges: [""]
+- catalogs: [""]
+  principals: [""]
+  privileges: [""]
+schema_grants:
+- schemas: [""]
+  principals: [""]
+  privileges: [""]
+- schemas: [""]
+  principals: [""]
+  privileges: [""]
+- schemas: ["schemaname"]
