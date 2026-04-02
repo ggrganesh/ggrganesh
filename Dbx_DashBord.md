@@ -137,3 +137,6 @@ UNION ALL
 SELECT 'DBU', val FROM dbu
 UNION ALL
 SELECT 'Tables', val FROM tables_count;
+
+
+
